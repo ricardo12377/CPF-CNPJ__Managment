@@ -52,13 +52,16 @@
 <h3>Resumo e arquitetura Back-end</h3>
 
 <em>O Back-end foi feito em cima de um padrão MVC, onde a regra de negócio é abstraída em algumas camadas
--->Server
-  --->Rotas
-  ---->Controladores
-  ---->Middleware de status, onde conta a quantidade de requisições feitas, o método e a url desde o start.
-  ------>Serviços (repositórios criados dentro dos serviços
-  -------->Entidades (models)
-  ---------->Migrations
+  <ul>
+    
+    <p>Ordem das abstrações</p>
+    <li>Server</li>
+    <li>Rotas</li>
+    <li>Controladores</li>
+    <li>iddleware de status, onde conta a quantidade de requisições feitas, o método e a url desde o start.</li>
+    <li>Serviços (repositórios criados dentro dos serviços</li>
+    <li>Entidades (models)</li>
+    <li>Migrations</li>
   </em>
   
   <em>Para criar o model e a conexão com o banco de dados foi usado o TypeORM, um ótimo ORM para ser usado com TypeScript e PostgreSQL</em>
