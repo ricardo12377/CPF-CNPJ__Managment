@@ -1,6 +1,8 @@
 <h1>Administrador de CPF e CNPJ - FullStack </div>
 
-<em>Sumário</em>
+
+
+<strong>Sumário</strong>
 
 <ul>
   <li>Tecnologias usadas</li>
