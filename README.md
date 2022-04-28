@@ -33,11 +33,11 @@
   <li>UUID</li>
 </ul>
 
-<h5>Importante</h5>
+<h3>Importante</h3>
 
 <em>Como o front-end é uma SPA, eu concentrei toda a lógica e funcionalidades no arquivo app.js com comentários explicando o que cada função e end-point faz.</em>
 
-<h5>Resumo e arquitetura front-end</h5>
+<h3>Resumo e arquitetura front-end</h3>
 
 <em>A segunda camada de uma aplicação react ficou responsável por renderizar todo o conteúdo, dentro da pasta src eu criei os components, testes e message Helpers</em>
 
@@ -47,7 +47,7 @@
 
 <em>Como todo o conteúdo estava em uma única página, não foi necessário o uso de ContextAPI e/ou Redux, mas caso fosse necessário eu saberia aplicar</em>
 
-<h5>Resumo e arquitetura Back-end</h5>
+<h3>Resumo e arquitetura Back-end</h3>
 
 <em>O Back-end foi feito em cima de um padrão MVC, onde a regra de negócio é abstraída em algumas camadas
 -->Server
