@@ -1,0 +1,1 @@
+export const statusList = ["message1", "message2"]

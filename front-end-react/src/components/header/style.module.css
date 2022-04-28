@@ -1,0 +1,12 @@
+.tittle {
+    height: 10%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tittle div {
+    font-size: 25px;
+}

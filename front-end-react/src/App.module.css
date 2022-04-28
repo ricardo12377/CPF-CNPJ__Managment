@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.body {
+  height: 85%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+}
+
+.box {
+  height: 100%;
+  width: 47%;
+  background-color: rgb(217, 215, 215);
+  border: 2px solid black;
+}
+
+.box header {
+  height: 10%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: gray;
+}
+
+.box header div {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.box header div input {
+  width: 200px;
+  border-radius: 15px;
+}
+
+.lista {
+  margin-top: .5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: scroll;
+  height: 450px;
+}
+
+.card {
+  height: 35px;
+  width: 95%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-top: 1em;
+}
+
+.infos {
+  display: flex;
+  gap: 2em;
+}
+
+.actions {
+  width: 34%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.edit {
+  border: 2px solid black;
+  margin-top: 1em;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.edit button {
+  margin-left: 2em;
+  width: 80px;
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+
+.add {
+  position: absolute;
+  width: 50%;
+  height: 60%;
+  background-color: gray;
+  bottom: 10em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2em;
+  align-items: center;
+}
+
+.add button {
+  width: 30%;
+}
