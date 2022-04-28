@@ -53,8 +53,6 @@
 
 <em>O Back-end foi feito em cima de um padrão MVC, onde a regra de negócio é abstraída em algumas camadas </em>
   <ul>
-     #Ordem das abstrações
-    
     <li>Server</li>
     <li>Rotas</li>
     <li>Controladores</li>
