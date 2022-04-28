@@ -9,7 +9,7 @@
   <li>Importante</li>
   <li>Resumo e arquitetura front-end<li>
   <li>Resumo e arquitetura Back-end</li>
-  <li>Como iniciar o projeto: com ou sem o Dcoker</li>
+  <li>Como iniciar o projeto: com ou sem o Docker</li>
 </ul>
 
 
