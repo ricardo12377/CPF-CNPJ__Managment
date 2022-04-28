@@ -2,8 +2,7 @@
 
 
 
-<strong>Sumário</strong>
-
+#Sumário
 <ul>
   <li>Tecnologias usadas</li>
   <li>Importante</li>
