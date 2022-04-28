@@ -56,7 +56,7 @@
     <li>Server</li>
     <li>Rotas</li>
     <li>Controladores</li>
-    <li>iddleware de status, onde conta a quantidade de requisições feitas, o método e a url desde o start.</li>
+    <li>Middleware de status, onde conta a quantidade de requisições feitas, o método e a url desde o start.</li>
     <li>Serviços (repositórios criados dentro dos serviços</li>
     <li>Entidades (models)</li>
     <li>Migrations</li>
