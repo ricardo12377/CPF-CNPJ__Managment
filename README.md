@@ -48,6 +48,8 @@
 
 <em>Como todo o conteúdo estava em uma única página, não foi necessário o uso de ContextAPI e/ou Redux, mas caso fosse necessário eu saberia aplicar</em>
 
+<em>Para realizar os testes eu usei o react-testing-library, onde eu renderizei os components pelo test-id, para ter certeza que os componentes mais importantes estão renderizados </em>
+
 <h3>Resumo e arquitetura Back-end</h3>
 
 <em>O Back-end foi feito em cima de um padrão MVC, onde a regra de negócio é abstraída em algumas camadas </em>
